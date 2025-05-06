@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
+
 **alvluann/alvluann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 <h1 align="center">
   Olá, eu sou o Luan! <img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="48" alt="Greninja dando um aceno">
 </h1>
@@ -17,8 +16,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Sobre mim
-- 🔭 **Atualmente:** desenvolvendo uma API de folha de pagamento em PHP + Laravel  
-- 🌱 **Estudando:** Rust e IA generativa (LLMs)  
+- 🔭 **Atualmente:** 
+- 🌱 **Estudando:**  
 - 💬 **Pergunte‑me sobre:** TypeScript, PHP, React e automação Python  
 - 📫 **Contato:** luan.alves@example.com  
 - ⚡ **Curiosidade:** Treinador Pokémon nas horas vagas – Greninja é meu parceiro 🥷🏻  
@@ -42,37 +41,4 @@ Here are some ideas to get you started:
        alt="GitHub stats">
 </p>
 
----
 
-### ⭐ Projetos em destaque
-<p align="center">
-  <a href="https://github.com/seu‑usuario/projeto‑x">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu‑usuario&repo=projeto‑x" alt="Projeto X">
-  </a>
-  <a href="https://github.com/seu‑usuario/projeto‑y">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu‑usuario&repo=projeto‑y" alt="Projeto Y">
-  </a>
-</p>
-
----
-
-### 🎖️ Conquistas & Badges
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=seu‑usuario&theme=flat&column=8)
-
----
-
-### ✨ Pokémon extra
-Caso queira alternar para a forma **Ash‑Greninja**, basta trocar o `src`:
-
-```html
-<img src="https://play.pokemonshowdown.com/sprites/ani/greninja-ash.gif"
-     width="160" alt="Ash‑Greninja sprite em pixel art">
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
