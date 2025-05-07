@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D6FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Olá,+eu+sou+Luan+Alves!;Full‑Stack+Developer;Bem‑vindo+ao+meu+GitHub" alt="Título animado" />
-</h1>
+<!-- Título animado (SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D6FF&center=true&vCenter=true&repeat=true&width=435&lines=Ol%C3%A1,+eu+sou+Luan+Alves!;Full-Stack+Developer;Bem-vindo+ao+meu+GitHub" alt="Título animado" />
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/8PlnT9rtCScAAAAj/mew-pokemon.gif"
