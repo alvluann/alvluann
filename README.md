@@ -16,10 +16,10 @@
 ---
 
 ### 🚀 Sobre mim
-- 🔭 **Atualmente:** 
-- 🌱 **Estudando:**  
-- 💬 **Pergunte‑me sobre:** TypeScript, PHP, React e automação Python  
-- 📫 **Contato:** luan.alves@example.com  
+- 🔭 **Atualmente:**Trabalhando com desenvolvimento de web na Prefeitura. 
+- 🌱 **Estudando:** Estudo Engenharia da Computação na Univap  
+- 💬 **Pergunte‑me sobre:** TypeScript, PHP, React, Python, Java e C# 
+- 📫 **Contato:** luan18.avieira@gmail.com  
 - ⚡ **Curiosidade:** Treinador Pokémon nas horas vagas – Greninja é meu parceiro 🥷🏻  
 
 ---
