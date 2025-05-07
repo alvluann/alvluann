@@ -20,7 +20,7 @@
 - 🌱 **Estudando:** Estudo Engenharia da Computação na Univap  
 - 💬 **Pergunte‑me sobre:** TypeScript, PHP, React, Python, Java e C# 
 - 📫 **Contato:** luan18.avieira@gmail.com  
-- ⚡ **Curiosidade:** Treinador Pokémon nas horas vagas – Greninja é meu parceiro 🥷🏻  
+- ⚡ **Curiosidade:** Treinador Pokémon nas horas vagas  
 
 ---
 
