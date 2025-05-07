@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🔭 **Atualmente:**Trabalhando com desenvolvimento de web na Prefeitura. 
+- 🔭 **Atualmente:** Trabalhando com desenvolvimento de web na Prefeitura. 
 - 🌱 **Estudando:** Estudo Engenharia da Computação na Univap  
 - 💬 **Pergunte‑me sobre:** TypeScript, PHP, React, Python, Java e C# 
 - 📫 **Contato:** luan18.avieira@gmail.com  
