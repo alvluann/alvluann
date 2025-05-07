@@ -8,9 +8,9 @@
 </h1>
 
 <p align="center">
-  <img src="[https://tenor.com/view/mew-pokemon-gif-17364023430976702759](https://tenor.com/search/mew-stickers)"
+  <img src="https://media.tenor.com/8PlnT9rtCScAAAAj/mew-pokemon.gif"
        width="160"
-       alt="Greninja em pixel art defendendo este repositório">
+       alt="Mew em pixel art defendendo este repositório">
 </p>
 
 ---
