@@ -12,8 +12,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently:** Web developer at the City Hall  
-- 🎓 **Studying:** Computer Engineering at Univap  
+- 🔭 **Currently:** Web developer  
+- 🎓 **Studying:** Study Computer Engineering   
 - 💬 **Ask me about:** TypeScript, PHP, React, Python, Java, and C#  
 - 📫 **Contact:** luan18.avieira@gmail.com  
 - ⚡ **Fun fact:** Pokémon trainer in my spare time  
