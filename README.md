@@ -1,12 +1,6 @@
-## Hi there 👋
-
-
-**alvluann/alvluann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">
-  <img src="assets/title.gif" alt="Título animado" width="350" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D6FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Olá,+eu+sou+Luan+Alves!;Full‑Stack+Developer;Bem‑vindo+ao+meu+GitHub" alt="Título animado" />
 </h1>
-
 
 <p align="center">
   <img src="https://media.tenor.com/8PlnT9rtCScAAAAj/mew-pokemon.gif"
@@ -17,9 +11,9 @@
 ---
 
 ### 🚀 Sobre mim
-- 🔭 **Atualmente:** Trabalhando com desenvolvimento de web na Prefeitura. 
-- 🌱 **Estudando:** Estudo Engenharia da Computação na Univap  
-- 💬 **Pergunte‑me sobre:** TypeScript, PHP, React, Python, Java e C# 
+- 🔭 **Atualmente:** Trabalhando com desenvolvimento web na Prefeitura
+- 🌱 **Estudando:** Engenharia da Computação na Univap  
+- 💬 **Pergunte‑me sobre:** TypeScript, PHP, React, Python, Java e C#  
 - 📫 **Contato:** luan18.avieira@gmail.com  
 - ⚡ **Curiosidade:** Treinador Pokémon nas horas vagas  
 
@@ -41,5 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alvluann&show_icons=true&theme=default"
        alt="GitHub stats">
 </p>
-
-
