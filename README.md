@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://media.tenor.com/8PlnT9rtCScAAAAj/mew-pokemon.gif"
        width="160"
-       alt="Pixel‑art Mew guarding this repository">
+       alt="Pixel‑art Mew guarding this repository" />
 </p>
 
 ---
@@ -34,4 +34,8 @@
 ### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alvluann&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvluann&layout=compact&langs_count=8&theme=default" alt="Top languages used" />
 </p>
