@@ -1,26 +1,26 @@
-<!-- Título animado (SVG) -->
+<!-- Animated title (SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D6FF&center=true&vCenter=true&repeat=true&width=435&lines=Ol%C3%A1,+eu+sou+Luan+Alves!;Full-Stack+Developer;Bem-vindo+ao+meu+GitHub" alt="Título animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D6FF&center=true&vCenter=true&repeat=true&width=435&lines=Hello,+I'm+Luan+Alves!;Full-Stack+Developer;Welcome+to+my+GitHub" alt="Animated title" />
 </p>
 
 <p align="center">
   <img src="https://media.tenor.com/8PlnT9rtCScAAAAj/mew-pokemon.gif"
        width="160"
-       alt="Mew em pixel art defendendo este repositório">
+       alt="Pixel‑art Mew guarding this repository">
 </p>
 
 ---
 
-### 🚀 Sobre mim
-- 🔭 **Atualmente:** Trabalhando com desenvolvimento web na Prefeitura
-- 🌱 **Estudando:** Engenharia da Computação na Univap  
-- 💬 **Pergunte‑me sobre:** TypeScript, PHP, React, Python, Java e C#  
-- 📫 **Contato:** luan18.avieira@gmail.com  
-- ⚡ **Curiosidade:** Treinador Pokémon nas horas vagas  
+### 🚀 About Me
+- 🔭 **Currently:** Web developer at the City Hall  
+- 🎓 **Studying:** Computer Engineering at Univap  
+- 💬 **Ask me about:** TypeScript, PHP, React, Python, Java, and C#  
+- 📫 **Contact:** luan18.avieira@gmail.com  
+- ⚡ **Fun fact:** Pokémon trainer in my spare time  
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -31,8 +31,7 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvluann&show_icons=true&theme=default"
-       alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvluann&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
