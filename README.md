@@ -4,11 +4,11 @@
 **alvluann/alvluann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">
-  Olá, eu sou o Luan! <img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="48" alt="Greninja dando um aceno">
+  Olá, eu sou o Luan! <img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="48">
 </h1>
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif"
+  <img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif](https://tenor.com/view/mew-pokemon-gif-17364023430976702759)"
        width="160"
        alt="Greninja em pixel art defendendo este repositório">
 </p>
