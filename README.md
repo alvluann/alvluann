@@ -4,10 +4,7 @@
 **alvluann/alvluann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=33FFEB&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Olá,+eu+sou+Luan+Alves!;Full‑Stack+Developer.;Bem‑vindo+ao+meu+GitHub."
-    alt="Título animado que digita e apaga frases"
-  />
+  <img src="assets/title.gif" alt="Título animado" width="350" />
 </h1>
 
 
