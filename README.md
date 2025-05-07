@@ -6,7 +6,7 @@
 <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=33FFEB&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Olá,+eu+sou+Luan+Alves!;Full‑Stack+Developer.;Bem‑vindo+ao+meu+GitHub."
-    alt="Olá sou O Luan Alves :)"
+    alt="Olá sou O Luan Alves "
   />
 </h1>
 
